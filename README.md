@@ -4,7 +4,7 @@
 
 Live Demo
 
-[liveDemo](https://fetch-california-housing-matrix-943.vercel.app/)
+[View Live Demo](https://fetch-california-housing-matrix-943.vercel.app/)
 
 ## 📸 Features
 

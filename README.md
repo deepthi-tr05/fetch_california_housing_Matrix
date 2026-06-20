@@ -1,8 +1,10 @@
 # 🏠 California Housing Data Explorer
 
 > An interactive statistical analysis and visualization dashboard built with **React + Vite + TypeScript + Tailwind CSS**. Explore the California Housing dataset through a rich, dark-themed UI featuring correlation heatmaps, pair plots, distribution charts, and more.
+9
+Live Demo
 
----
+[liveDemo](https://fetch-california-housing-matrix-943.vercel.app/).
 
 ## 📸 Features
 
